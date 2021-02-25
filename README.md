@@ -1,6 +1,8 @@
 This is a personal Journal made using MERN stack.
 The front-end is made using React using Material UI & the backend is implemented using MongoDB , Express.js & Node.js
 
+You can check the Project here : https://sharp-northcutt-b44751.netlify.app/
+
 Functionalities Implemented:
 1. User can add new Posts.
 2. User can Modify the posts he has already Posted.
